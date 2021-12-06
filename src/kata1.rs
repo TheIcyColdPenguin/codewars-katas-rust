@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/rust
+// https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/
 
 pub fn open_or_senior(data: Vec<(i32, i32)>) -> Vec<String> {
     let mut new_data = vec![];

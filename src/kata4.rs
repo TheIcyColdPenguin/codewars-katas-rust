@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/566fc12495810954b1000030/train/rust
+// https://www.codewars.com/kata/566fc12495810954b1000030/
 
 pub fn nb_dig(n: i32, d: i32) -> i32 {
     let mut total = 0;

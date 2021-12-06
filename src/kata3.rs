@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/5592e3bd57b64d00f3000047/train/rust
+// https://www.codewars.com/kata/5592e3bd57b64d00f3000047/
 
 pub fn find_nb(m: u64) -> i32 {
     let mut sum: u64 = 0;
